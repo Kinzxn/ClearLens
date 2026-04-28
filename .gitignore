@@ -1,0 +1,31 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+RoughClearLens.zip
+*.db
+test_buffer.db
+.agent/
+.gemini/
+
+# Node
+node_modules/
+dist/
+build/
